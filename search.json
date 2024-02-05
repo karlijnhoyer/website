@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "My name is Karlijn Hoyer\nand this is my cat Soof"
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Papers",
+    "section": "",
+    "text": "These are my papers."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "BBM",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "Full CV"
+  },
+  {
+    "objectID": "about.html#more-about-me",
+    "href": "about.html#more-about-me",
+    "title": "About",
+    "section": "More about me",
+    "text": "More about me"
+  }
+]
